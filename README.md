@@ -11,11 +11,14 @@ This was an introduction to python coding, i learnt about
 
 The project was a name generator for a pet
 
-https://github.com/preciousmum/100-DAYS-OF-PYTHON-CODING/blob/0d935598d169ed9518f718279cbd9048924a070f/DAY_1/5 Project.py
+https://github.com/preciousmum/100-DAYS-OF-PYTHON-CODING/blob/0d935598d169ed9518f718279cbd9048924a070f/DAY_1/5%20Project.py
+
+
 
 ## DAY 2
 On day 2 i was introduced to 
 - Data types and how to check data types
 - Mathematical operations
-  
-  I need a project titled TIP CALCULATOR
+
+ I dida project titled TIP CALCULATOR
+https://github.com/preciousmum/100-DAYS-OF-PYTHON-CODING/blob/0d935598d169ed9518f718279cbd9048924a070f/DAY_2/8%20Project.py
