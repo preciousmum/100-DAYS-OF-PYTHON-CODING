@@ -22,3 +22,7 @@ On day 2 i was introduced to
 
  I dida project titled TIP CALCULATOR
 https://github.com/preciousmum/100-DAYS-OF-PYTHON-CODING/blob/0d935598d169ed9518f718279cbd9048924a070f/DAY_2/8%20Project.py
+
+## DAY 3
+On Day 3 I learnt about conditional statements. I use the for loops majorly to do fun and intresting things, i created a an intresting adventure project leading with the idea of dora the explorer. check it out here
+
