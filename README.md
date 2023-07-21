@@ -31,7 +31,10 @@ https://github.com/preciousmum/100-DAYS-OF-PYTHON-CODING/blob/main/DAY_3/8%20pro
 On Day 4 I learnt about Randomization and List in python.
 At the end of the day, i created the rock paper and scissors game.
 
+https://github.com/preciousmum/100-DAYS-OF-PYTHON-CODING/blob/main/DAY_4/7%20Project.py
+
 ## DAY 5
+<<<<<<< HEAD
 DAY 5 was a hetic one, i learnt about for loops in python and how to iterate through items using for loops. 
 
     #the for loop is used or declared using the for function
@@ -69,3 +72,8 @@ Functions are the basic building blocks of code, they are instructions that tell
 
 
 ## Day 7
+=======
+DAY 5 was a hetic one, i learnt about for loops in python and how to iterate through items using for loops.
+At the end of the day, i made a password Generator project, which was fun and challenging to code<>
+https://github.com/preciousmum/100-DAYS-OF-PYTHON-CODING/tree/main/DAY_5
+>>>>>>> f3883e79fdb76cd62576e11952b52e5646861d34
