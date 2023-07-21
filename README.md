@@ -20,7 +20,7 @@ On day 2 i was introduced to
 - Data types and how to check data types
 - Mathematical operations
 
- I dida project titled TIP CALCULATOR
+ I did project titled TIP CALCULATOR
 https://github.com/preciousmum/100-DAYS-OF-PYTHON-CODING/blob/0d935598d169ed9518f718279cbd9048924a070f/DAY_2/8%20Project.py
 
 ## DAY 3
@@ -32,5 +32,40 @@ On Day 4 I learnt about Randomization and List in python.
 At the end of the day, i created the rock paper and scissors game.
 
 ## DAY 5
-DAY 5 was a hetic one, i learnt about for loops in python and how to iterate through items using for loops.
+DAY 5 was a hetic one, i learnt about for loops in python and how to iterate through items using for loops. 
+
+    #the for loop is used or declared using the for function
+    for i in j:
+        do this
+    #where i is the item that will loop throug and J is the list or element to be looped through, 
+    like i is the security guy checking each elements and j are the elements been checked.
+    for loop is used for iterating over elements individually or in a range
+
+
+
 At the end of the day, i made a password Generator project, which was fun and challenging to code<>
+
+## Day 6
+Day 6, I learnt about functions and how to create functions to optimize codes and break down long line of codes into block and mae code easily readable.
+reeborgworld.org
+I learnt the creation of functions and how to create functions using the def keyword
+    
+    ''' 
+    def my_function():
+        #Do this
+        #Then do this
+        #Also oo this
+    '''
+    Also lookig at looking at the while loop
+    # Declaration of variable count or initial value
+    while something_is_true:
+        #Do this
+
+While loop is used  when you want to carry out some funcionality until some condition is being fulfilled, i.e if the condition is not fulfilled it will keep on running and become an infinite loop
+
+Functions are the basic building blocks of code, they are instructions that tells the computer what to do and helps in creating usable code 
+
+>Tips: when you don't know why you are getting an infinite loop simply print out what is going on or the code.
+
+
+## Day 7
