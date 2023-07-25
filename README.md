@@ -51,8 +51,8 @@ At the end of the day, i made a password Generator project, which was fun and ch
 Day 6, I learnt about functions and how to create functions to optimize codes and break down long line of codes into block and mae code easily readable.
 reeborgworld.org
 I learnt the creation of functions and how to create functions using the def keyword
+''' 
     
-    ''' 
     def my_function():
         #Do this
         #Then do this
@@ -62,6 +62,7 @@ I learnt the creation of functions and how to create functions using the def key
     # Declaration of variable count or initial value
     while something_is_true:
         #Do this
+    
 
 While loop is used  when you want to carry out some funcionality until some condition is being fulfilled, i.e if the condition is not fulfilled it will keep on running and become an infinite loop
 
