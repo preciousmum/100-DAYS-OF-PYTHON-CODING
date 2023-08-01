@@ -76,6 +76,8 @@ Functions are the basic building blocks of code, they are instructions that tell
 >I finally beat the hang man game and conquere my fears.
 After 2-3 months of being afraid of this project and not attempting it for difficulty i finally won and even customized it to my own likening.
 
+I learnt about using print statements to check and debug your code, also with using smmall samples or protype first to test and build your code before moving unto large ones, e.g for the hangman project we started out with just 3 words
+
 HANGMAN CONQUERED!!! HURRAY!!
 check out my hangman code project here
 [HANGMAN](https://github.com/preciousmum/100-DAYS-OF-PYTHON-CODING/tree/e5c5470fd5735841315a6b5a21e3165b503a6c73/DAY_7)
