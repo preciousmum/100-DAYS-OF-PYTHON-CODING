@@ -72,3 +72,9 @@ Functions are the basic building blocks of code, they are instructions that tell
 
 
 ## Day 7
+>I finally did it!!!<br>
+>I finally beat the hang man game and conquere my fears.
+After 2-3 months of being afraid of this project and not attempting it for difficulty i finally won and even customized it to my own likening.
+
+HANGMAN CONQUERED!!! HURRAY!!
+check out my hangman code project here
