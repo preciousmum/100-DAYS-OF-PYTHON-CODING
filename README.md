@@ -31,6 +31,21 @@ https://github.com/preciousmum/100-DAYS-OF-PYTHON-CODING/blob/main/DAY_3/8%20pro
 On Day 4 I learnt about Randomization and List in python.
 At the end of the day, i created the rock paper and scissors game.
 
+I also learnt how to seprate strings and convert them to list, using the split fuction
+```
+# We would also be using the "split()" function to convert a string to list
+#The split(",") will sperate the string to a list by a comma
+# it works based on the character specified in it
+
+# the split code works in the code below by seperating the letter with a commma and a space
+
+names = names_string.split(", ")
+
+
+```
+# We would also be using the "split()" function to convert a string to list
+# The split(",") will sperate the string to a list by a comma, it works based on the character specified in it
+
 https://github.com/preciousmum/100-DAYS-OF-PYTHON-CODING/blob/main/DAY_4/7%20Project.py
 
 ## DAY 5
@@ -57,7 +72,7 @@ I learnt the creation of functions and how to create functions using the def key
         #Do this
         #Then do this
         #Also oo this
-    '''
+    
     Also lookig at looking at the while loop
     # Declaration of variable count or initial value
     while something_is_true:
@@ -81,3 +96,33 @@ I learnt about using print statements to check and debug your code, also with us
 HANGMAN CONQUERED!!! HURRAY!!
 check out my hangman code project here
 [HANGMAN](https://github.com/preciousmum/100-DAYS-OF-PYTHON-CODING/tree/e5c5470fd5735841315a6b5a21e3165b503a6c73/DAY_7)
+
+## DAY 8
+We looked at and reviewed functions that we did in the last lesson which was day 6, we recaled functions are set of codes or instructions that tells the computer what to do. Functions are used to make your code shorter and more readable
+<br>
+```
+# we use the def keyword to creak a function
+
+def my_function():
+    #Do this
+    #Then do this
+    #Also oo this
+
+# Functions that allows for input or parameter
+
+def my_function(input):
+    #Do this
+    #Then do this
+    #Also oo this
+#calling the function would be, 
+#where value is what you decide to put into the function also known as the argument
+
+my_function(value)
+
+# you could also add multiple inputs or parameter by using commas (",")
+def my_function(input1, input2)
+
+# you can use keywoard argument to specify which paramenter has the value or input e.g input1 = egg etc
+
+
+```

@@ -8,6 +8,7 @@ names_string = input("Give me every body's name seprated by a comma and a space\
 
 # We would also be using the "split()" function to convert a string to list
 # The split(",") will sperate the string to a list by a comma, it works based on the character specified in it
+# the split code works in the code below by seperating the letter with a commma and a space
 names = names_string.split(", ")
 
 # We have to import random since we dealing with random selection
