@@ -19,6 +19,8 @@ https://github.com/preciousmum/100-DAYS-OF-PYTHON-CODING/blob/0d935598d169ed9518
 On day 2 i was introduced to 
 - Data types and how to check data types
 - Mathematical operations
+- i also learnt about the f string and how to use it to join multiple data types together
+  e.g print(f" string {datatype to convert}")
 
  I did project titled TIP CALCULATOR
 https://github.com/preciousmum/100-DAYS-OF-PYTHON-CODING/blob/0d935598d169ed9518f718279cbd9048924a070f/DAY_2/8%20Project.py
@@ -43,8 +45,8 @@ names = names_string.split(", ")
 
 
 ```
-# We would also be using the "split()" function to convert a string to list
-# The split(",") will sperate the string to a list by a comma, it works based on the character specified in it
+ We would also be using the "split()" function to convert a string to list
+ The split(",") will sperate the string to a list by a comma, it works based on the character specified in it
 
 https://github.com/preciousmum/100-DAYS-OF-PYTHON-CODING/blob/main/DAY_4/7%20Project.py
 
@@ -122,7 +124,7 @@ my_function(value)
 # you could also add multiple inputs or parameter by using commas (",")
 def my_function(input1, input2)
 
-# you can use keywoard argument to specify which paramenter has the value or input e.g input1 = egg etc
+# you can use keywoard argument to specify which paramenter has the value or input e.g input1 = egg etc, this is known as positional argument or keyword argument
 
 
 ```
