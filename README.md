@@ -132,4 +132,6 @@ def my_function(input1, input2)
 ## DAY 9
 Dictionaries in python <br>
 A dictionary always contain a Key and a Value<br>
-it has a syntax of {Key:Value}
+it has a syntax of {Key:Value} <br>
+seprate key value pair with a comma for multiple inputs
+
