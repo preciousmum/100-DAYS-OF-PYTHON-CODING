@@ -41,12 +41,6 @@ print(display)
 # print(display)
 
 
-'''todo-2 Ask the user to guess a letter and assign their answer to a variable
-called guess. Make guess lowercase'''
-
-'''todo -4 Use a while loop to tell the user to guess again. the loop should only stop once the user has guessed
-all the letters in the chosen_word and 'display has no more blanks ("_"), then you can tell the user they've won
-'''
 end_of_game = False
 while not end_of_game:
 

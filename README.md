@@ -102,15 +102,16 @@ check out my hangman code project here
 ## DAY 8
 We looked at and reviewed functions that we did in the last lesson which was day 6, we recaled functions are set of codes or instructions that tells the computer what to do. Functions are used to make your code shorter and more readable
 <br>
-```
-# we use the def keyword to creak a function
 
+ we use the def keyword to creat a function
+
+```
 def my_function():
     #Do this
     #Then do this
     #Also oo this
 
-# Functions that allows for input or parameter
+#Functions that allows for input or parameter
 
 def my_function(input):
     #Do this
@@ -120,18 +121,26 @@ def my_function(input):
 #where value is what you decide to put into the function also known as the argument
 
 my_function(value)
+```
 
-# you could also add multiple inputs or parameter by using commas (",")
+you could also add multiple inputs or parameter by using commas (",")
 def my_function(input1, input2)
 
-# you can use keywoard argument to specify which paramenter has the value or input e.g input1 = egg etc, this is known as positional argument or keyword argument
+you can use keywoard argument to specify which paramenter has the value or input e.g input1 = egg etc, this is known as positional argument or keyword argument
 
 
-```
 
 ## DAY 9
 Dictionaries in python <br>
 A dictionary always contain a Key and a Value<br>
 it has a syntax of {Key:Value} <br>
 seprate key value pair with a comma for multiple inputs
+Each key can only have one value
+
+Nesting in Dictionary
+Nesting is simply placing an item or element inside another item or element.
+Imagine you have a box and you want to put your eggs inside the box, when you put your eggs inside the box, the nested item is the egg. the whole item is the nested dictonary. 
+we nest in dictionary if we want to add multiple values to a key using either a list or a dictionary.
+
+##  DAY 10
 
