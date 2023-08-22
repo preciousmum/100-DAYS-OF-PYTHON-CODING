@@ -3,6 +3,7 @@
 # This code converts the string to an integer
 student_heights = input("Input a list of student heights, seprated by a comma\n").split(",")
 for n in range(0, len(student_heights)):
+    # the code below converts the student heights to integer
     student_heights[n] = int(student_heights[n])
 print(student_heights)
 
@@ -16,6 +17,8 @@ print(f"The Total height of studnet is: {total_height}")
 # Repeat the same step above
 Number_of_student = 0
 for length in student_heights:
+    # print(length)
+    # print(Number_of_student)
     Number_of_student += 1
 print(f"The Number of student is: {Number_of_student}")
 

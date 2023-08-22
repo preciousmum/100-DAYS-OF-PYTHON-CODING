@@ -3,6 +3,7 @@
 sum = 0
 for i in range(1,101):
     if i % 2 == 0:
+        # print(i)
         sum += i
 print(f"The total sum of even number in 1-100 is: {sum}")
 
@@ -10,5 +11,6 @@ print(f"The total sum of even number in 1-100 is: {sum}")
 # we start from 2 because we want a range of even number
 total = 0
 for i in range(2,101, 2):
+    # print(i)
     total += i
 print(f"The total sum of even number in 1-100 is: {total}")
