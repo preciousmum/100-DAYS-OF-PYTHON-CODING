@@ -23,10 +23,3 @@ prime_checker(number=n)
 
 
 
-# #Do NOT change any of the code below👇
-# n = int(input("Check this number: "))
-# prime_checker(number=n)
-
-# The for loop is used to print or get out all the possible ranges of numbers between the choices
-# The modulo function was used to checke the numbers if its remainder is zero then it is not a prime as i contains
-# values of greater than 2 
